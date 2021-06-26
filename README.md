@@ -15,7 +15,7 @@ color: #333;
 
 #### 效果展示
 
-![](.\img\nytimes-imperial.png)
+![](https://raw.githubusercontent.com/aotushi/computerFonts/master/img/nytimes-imperial.png)
 
 
 
@@ -39,5 +39,5 @@ color: #333;
 
 #### 效果展示
 
-![](.\img\equity_text_aregular.png)
+![](https://raw.githubusercontent.com/aotushi/computerFonts/master/img/equity_text_aregular.png)
 
